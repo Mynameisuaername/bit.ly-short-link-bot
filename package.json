@@ -1,0 +1,19 @@
+{
+  "name": "ishorturlbot",
+  "version": "1.0.0",
+  "description": "A Short URL Telegram Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "author": "icodelife",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "bitly": "^7.1.0",
+    "node-bypasser": "^1.8.0",
+    "nodemon": "^1.18.10",
+    "telebot": "^1.2.6",
+    "url-regex": "^4.1.1"
+  }
+}
